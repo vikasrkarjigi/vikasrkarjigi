@@ -1,8 +1,8 @@
 
-# 👋 Hi there! I'm Vikas Karjigi
+# 👋 Hi there! I'm Vikas Ravikumar Karjigi
 
 🎓 Master's in Data Science @ Illinois Institute of Technology (GPA: 4.0/4.0)  
-💼 Ex-Boeing | Data Analyst | Data Engineer | Machine Learning Enthusiast  
+💼 Ex-Boeing | Data Scientist | Data Analyst | Data Engineer | Machine Learning Enthusiast  
 📍 Passionate about building scalable data platforms and driving insights from real-time data.
 
 ---
@@ -38,10 +38,6 @@ I'm a data enthusiast with 2+ years of experience in developing scalable platfor
 
 ## 🔥 Project Highlights
 
-### 📊 Cricket Analytics Dashboard
-Built using web scraping (Python + BeautifulSoup), EDA, and **Power BI dashboards** for T20 World Cup insights.  
-➡️ Enabled **50% faster decision-making** using interactive visuals.
-
 ### 💹 Real-Time Stock Market Analysis
 Implemented a **real-time data pipeline** with Apache Kafka and AWS DynamoDB.  
 ➡️ Designed for ingesting, storing, and analyzing high-frequency stock data.
@@ -53,6 +49,10 @@ Forecasted U.S. monthly mortality trends using seasonal ARIMA modeling in R.
 ### 🏐 Automated Volleyball Highlight Generator
 Developed a feature-rich OpenCV pipeline for event detection and highlight generation.  
 ➡️ Created real-time, professional-grade sports content from raw videos.
+
+### 📊 Cricket Analytics Dashboard
+Built using web scraping (Python + BeautifulSoup), EDA, and **Power BI dashboards** for T20 World Cup insights.  
+➡️ Enabled **50% faster decision-making** using interactive visuals.
 
 ---
 
@@ -66,4 +66,4 @@ Developed a feature-rich OpenCV pipeline for event detection and highlight gener
 ## 🌐 Let’s Connect
 
 📫 Email: vkarjigi@hawk.iit.edu  
-💼 [LinkedIn](https://www.linkedin.com/in/vikas-karjigi)  
+💼 [LinkedIn]([https://www.linkedin.com/in/vikas-karjigi](https://www.linkedin.com/in/vikas-r-karjigi-309a6116a/))  
